@@ -1,4 +1,7 @@
 # MTEX2Gmsh2DYNA3d
+### Schematic
+![](https://github.com/MaynotbeGarychan/MTEX2Gmsh2DYNA3d/blob/main/fig/schematic.JPG)
+![](https://github.com/MaynotbeGarychan/MTEX2Gmsh2DYNA3d/blob/main/fig/performance.JPG)
 ### Author:
 CHEN Jiawei, Master student in Mechanical Engineering, The University of Tokyo.
 

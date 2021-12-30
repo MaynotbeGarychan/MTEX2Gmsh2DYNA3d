@@ -1,3 +1,9 @@
 *.db
 *.msg
 *.cfile
+*.ang
+*.xml
+future.txt
+Maeda.asv
+Maeda.m
+*.iml

@@ -31,8 +31,8 @@ inp2k.write_mesh(kfile_dir,node3d_df,elem3d_df, grain3d_df, euler_df, elemgrain3
 #inp2k.write_mesh(kfile_dir,node_df,elem_df, grain_df, euler_df, elemgrain_df)
 eulerangle.write_euler(euler_df)
 
-# write other useful information for lsdyna
-ktool.write_boundary(kfile_dir)
-ktool.write_database(kfile_dir)
-ktool.write_keyword(kfile_dir)
-ktool.write_loadcurve(kfile_dir,300,0.2)
+# write other useful information for lsdyna (Unstable)
+#ktool.write_boundary(kfile_dir)
+#ktool.write_database(kfile_dir)
+#ktool.write_keyword(kfile_dir)
+#ktool.write_loadcurve(kfile_dir,300,0.2)

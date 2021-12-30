@@ -1,5 +1,8 @@
 # MTEX2Gmsh2DYNA3d
 ### Schematic
+Use this repo with [MTEX2Gmsh](https://github.com/DorianDepriester/MTEX2Gmsh) to make
+polycrystal meshes with refinement in thickness for CPFEM 
+(Crystal plasticity finite element method). :)
 ![](https://github.com/MaynotbeGarychan/MTEX2Gmsh2DYNA3d/blob/main/fig/schematic.JPG)
 ![](https://github.com/MaynotbeGarychan/MTEX2Gmsh2DYNA3d/blob/main/fig/performance.JPG)
 ### Author:
